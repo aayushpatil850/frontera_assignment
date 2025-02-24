@@ -27,7 +27,7 @@ Ensure you have the following installed:
 - [Dataset for Screaming and normal](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.kaggle.com/datasets/whats2000/human-screaming-detection-dataset&ved=2ahUKEwjo_Zq2j9uLAxWmSGwGHZmrOaAQFnoECBoQAQ&usg=AOvVaw1hSis4VFi9Rtnkm8xdJEfZ)
 - [scikit-learn](https://scikit-learn.org/stable/)
 - [Evaluate](https://huggingface.co/docs/evaluate/)
-- for testing any single audio file please use wav2vec2.py and for weights use link https://drive.google.com/drive/folders/1PhXknXUffHA70yFVGYIPU72XowtkiKEd?usp=drive_link
+- for testing any single audio file (it should be in .wav format and put it in the audio_path section) please use wav2vec2.py and for weights use link https://drive.google.com/drive/folders/1PhXknXUffHA70yFVGYIPU72XowtkiKEd?usp=drive_link
 
 You can install the necessary dependencies by running:
 
