@@ -23,8 +23,8 @@ Ensure you have the following installed:
 - [Transformers](https://huggingface.co/docs/transformers/)
 - [Librosa](https://librosa.org/)
 - [Soundfile](https://pypi.org/project/SoundFile/)
-- [Dataset for crying]([https://huggingface.co/docs/datasets/](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.kaggle.com/datasets/warcoder/infant-cry-audio-corpus&ved=2ahUKEwiuk_2Nj9uLAxWCSWwGHXV0KMgQFnoECBMQAQ&usg=AOvVaw0HuDpjnjvDIP1E87xgUmNz))
-- [Dataset for Screaming and normal]([[https://huggingface.co/docs/datasets/](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.kaggle.com/datasets/warcoder/infant-cry-audio-corpus&ved=2ahUKEwiuk_2Nj9uLAxWCSWwGHXV0KMgQFnoECBMQAQ&usg=AOvVaw0HuDpjnjvDIP1E87xgUmNz](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.kaggle.com/datasets/whats2000/human-screaming-detection-dataset&ved=2ahUKEwjo_Zq2j9uLAxWmSGwGHZmrOaAQFnoECBoQAQ&usg=AOvVaw1hSis4VFi9Rtnkm8xdJEfZ))
+- [Dataset for crying](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.kaggle.com/datasets/warcoder/infant-cry-audio-corpus&ved=2ahUKEwiuk_2Nj9uLAxWCSWwGHXV0KMgQFnoECBMQAQ&usg=AOvVaw0HuDpjnjvDIP1E87xgUmNz)
+- [Dataset for Screaming and normal](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.kaggle.com/datasets/whats2000/human-screaming-detection-dataset&ved=2ahUKEwjo_Zq2j9uLAxWmSGwGHZmrOaAQFnoECBoQAQ&usg=AOvVaw1hSis4VFi9Rtnkm8xdJEfZ)
 - [scikit-learn](https://scikit-learn.org/stable/)
 - [Evaluate](https://huggingface.co/docs/evaluate/)
 
