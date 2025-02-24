@@ -8,7 +8,7 @@ The objective of this project is to classify three types of sounds: crying, scre
 
 1. **Data Preprocessing**: Load, resample, and save audio files.
 2. **Data Splitting**: Split the data into training, validation, and test sets.
-3. **Model Training**: Fine-tune the `wav2vec2` model for audio classification.
+3. **Model Training**: Fine-tune the `wav2vec2` and 'yamnet' model for audio classification.
 4. **Evaluation**: Evaluate the trained model's performance using metrics such as accuracy, ROC AUC score, and confusion matrix.
 5. **Inference**: Provide a function to predict labels for new audio samples.
 
@@ -28,6 +28,8 @@ Ensure you have the following installed:
 - [scikit-learn](https://scikit-learn.org/stable/)
 - [Evaluate](https://huggingface.co/docs/evaluate/)
 - for testing any single audio file (it should be in .wav format and put it in the audio_path section) please use wav2vec2.py and for weights use link https://drive.google.com/drive/folders/1PhXknXUffHA70yFVGYIPU72XowtkiKEd?usp=drive_link
+- for the yamnet please refer to the ipynb file all the plots and curves and accuracies are there included in it
+- and for Wav2Vec2 model i have attached a detailed pdf report please refer 
 
 You can install the necessary dependencies by running:
 
